@@ -1,10 +1,5 @@
 # Hi, I’m Tanasit Nimpradit.
-
-🔭 I’m currently working base on my skills.
-
-🌱 I’m currently learning more about Software Development.
-
-🤔 I’m looking for help with my senior project.
+Hello everyone, Welcome to my GitHub Page. I am Tanasit Nimpradit and passionate developer, I looking to learn new experience about programming and technology. I'm glad to meet everybody on my journey.
 
 ## 💻Tech Stack
 ### Programing Language:
@@ -15,7 +10,6 @@
 ![image](https://user-images.githubusercontent.com/119908804/209145312-fe356c18-4803-4ca0-b0a0-6a26231ff715.png)
 ![image](https://user-images.githubusercontent.com/119908804/209145377-d0acb609-a370-4333-b9b7-98225a535332.png)
 ![image](https://user-images.githubusercontent.com/119908804/209145396-274f4b6d-b4b0-4067-bd13-7d67212f648f.png)
-![image](https://user-images.githubusercontent.com/119908804/209142083-d8dfdfc5-fb17-4f63-a2c4-ab185b5a58a5.png)
 ![image](https://user-images.githubusercontent.com/119908804/209143944-ab29d69e-ccd5-4799-8fbe-b5d1c38804a9.png)
 ![image](https://user-images.githubusercontent.com/119908804/209145227-22939c53-6c62-4ebd-beba-6dcf4f11ce0e.png)
 ### Framework&Library:
@@ -26,6 +20,8 @@
 ![image](https://user-images.githubusercontent.com/119908804/209143114-e91b971c-05e4-479b-a265-716781045d36.png)
 ![image](https://user-images.githubusercontent.com/119908804/209143140-c75c241d-09e8-4d31-955e-4f81ff0709f0.png)
 ![image](https://user-images.githubusercontent.com/119908804/209140206-98a608bc-3f6f-48c4-992f-0691823160e7.png)
+![image](https://user-images.githubusercontent.com/119908804/209147167-714d5b3a-e1ca-43af-9e23-a2bad75d687d.png)
+![image](https://user-images.githubusercontent.com/119908804/209142083-d8dfdfc5-fb17-4f63-a2c4-ab185b5a58a5.png)
 ### IDE&Tool:
 ![image](https://user-images.githubusercontent.com/119908804/209143468-0ca1acce-5433-4ca8-9292-1ed5c0cad562.png)
 ![image](https://user-images.githubusercontent.com/119908804/209143544-9dc55090-e860-45a0-9744-c6de55e56868.png)
