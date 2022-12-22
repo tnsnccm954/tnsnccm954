@@ -1,6 +1,10 @@
 # Hi, I’m Tanasit Nimpradit.
 Hello everyone, Welcome to my GitHub Page. I am Tanasit Nimpradit and passionate developer, I looking to learn new experience about programming and technology. I'm glad to meet everybody on my journey.
 
+🌱 I’m currently learning about Front-end, Back-end, Security, Network and more.
+
+💬 Ask me about any tech-related stuff.
+
 ## 💻Tech Stack
 ### Programing Language:
 ![image](https://user-images.githubusercontent.com/119908804/209145168-7b5780b4-5db4-4801-a6c3-790fd4a76771.png)
