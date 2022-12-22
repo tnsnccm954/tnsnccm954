@@ -21,7 +21,6 @@ Hello everyone, Welcome to my GitHub Page. I am Tanasit Nimpradit and passionate
 ![image](https://user-images.githubusercontent.com/119908804/209143140-c75c241d-09e8-4d31-955e-4f81ff0709f0.png)
 ![image](https://user-images.githubusercontent.com/119908804/209140206-98a608bc-3f6f-48c4-992f-0691823160e7.png)
 ![image](https://user-images.githubusercontent.com/119908804/209147167-714d5b3a-e1ca-43af-9e23-a2bad75d687d.png)
-![image](https://user-images.githubusercontent.com/119908804/209142083-d8dfdfc5-fb17-4f63-a2c4-ab185b5a58a5.png)
 ### IDE&Tool:
 ![image](https://user-images.githubusercontent.com/119908804/209143468-0ca1acce-5433-4ca8-9292-1ed5c0cad562.png)
 ![image](https://user-images.githubusercontent.com/119908804/209143544-9dc55090-e860-45a0-9744-c6de55e56868.png)
